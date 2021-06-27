@@ -4,7 +4,7 @@
 The goal of this project was to learn how to embed mulimedia content sucha as
 images, videos, and frames properly into an HTML document.
 
-> Live demo [_here_](#)
+> Live demo [_here_](https://rzvl.github.io/mozilla-splash-page/)
 
 
 ## General Information
