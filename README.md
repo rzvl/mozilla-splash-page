@@ -12,7 +12,7 @@ images, videos, and frames properly into an HTML document.
 This is a very simple HTML page in which many different types of multimedia
 have been embedded.
 
-Source: [Structuring a page of content](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
+Source: [Mozilla splash page](https://developer.mozilla.org/en-US/docs/Learn/HTML/Multimedia_and_embedding/Mozilla_splash_page)
 
 
 ## Technologies Used
